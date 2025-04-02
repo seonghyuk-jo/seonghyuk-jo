@@ -1,5 +1,7 @@
-## Hi there 👋
+## Seong Hyuk
 
+## links
+- E-mail - ftb6676@naver.com & thrs6676@gmail.con
 <!--
 **seonghyuk-jo/seonghyuk-jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
