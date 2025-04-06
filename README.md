@@ -1,6 +1,8 @@
 <h3 align="center">안녕하세요! 조성혁입니다</h3>
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Tint&pause=1000&width=435&lines=Yeungnam+University+student;~Studing+coding~)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bungee+Tint&pause=1000&width=435&lines=Yeungnam+University+student;~Studying+coding~" alt="Typing SVG" />
+</p>
 ---
 <p align="center">
   C++와 JavaScript를 공부하고 있습니다.<br>
