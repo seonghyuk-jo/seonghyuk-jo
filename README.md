@@ -1,5 +1,7 @@
 <h3 align="center">안녕하세요! 조성혁입니다</h3>
-
+---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Tint&pause=1000&width=435&lines=Yeungnam+University+student;~Studing+coding~)](https://git.io/typing-svg)
+---
 <p align="center">
   C++와 JavaScript를 공부하고 있습니다.<br>
   현재 <strong>영남대학교 컴퓨터공학과 3학년</strong> 재학 중입니다.<br>
