@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bungee+Tint&pause=1000&width=435&lines=Yeungnam+University+student;~Studying+coding~" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bungee+Tint&pause=1000&width=435&lines=-----Yeungnam+University+student-----;~~~~~Studying+coding~~~~~" alt="Typing SVG" />
 </div>
 
 ---
