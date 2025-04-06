@@ -1,4 +1,4 @@
-<h3 align="center">안녕하세요! 조성혁입니다</h3>
+<h3 align="center">안녕하세요! 조성혁입니다!</h3>
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Welcome!&fontSize=40&fontAlignY=35&fontAlign=50&fontColor=ffffff&font=Fira+Code&animation=fadeIn" />
