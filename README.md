@@ -1,19 +1,28 @@
-# **INFORMATION**
-## Seong Hyuk
+<h3 align="center">안녕하세요! 조성혁입니다</h3>
 
-## links
-- E-mail - ftb6676@naver.com & thrs6676@gmail.con
-<!--
-**seonghyuk-jo/seonghyuk-jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  C++와 JavaScript를 공부하고 있습니다.<br>
+  현재 <strong>영남대학교 컴퓨터공학과 3학년</strong> 재학 중입니다.<br>
+  ✉️ 이메일: ftb6676@naver.com
+</p>
 
-Here are some ideas to get you started:
+---
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square" />
+</p>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
